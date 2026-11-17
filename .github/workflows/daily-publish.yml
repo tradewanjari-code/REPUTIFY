@@ -31,7 +31,7 @@ jobs:
           SITE_TITLE: "Reputify"
           SITE_TAGLINE: "Smart digital cards, QR codes, and automated Google review workflows."
           SITE_NICHE: "Google reviews, NFC and QR review cards, and local business reputation growth"
-          OPENAI_MODEL: "gemini-2.5-flash"
+          OPENAI_MODEL: "gemini-3.5-flash-lite"
           OPENAI_BASE_URL: "https://generativelanguage.googleapis.com/v1beta/openai/"
         run: python REPUTIFY_site.py
 
