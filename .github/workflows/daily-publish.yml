@@ -28,12 +28,12 @@ jobs:
       - name: Generate new AI post and rebuild site
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          SITE_TITLE: "AutoPulse AI"
+          SITE_TITLE: "Reputify"
           SITE_TAGLINE: "Daily automated insights on AI, tech, and digital workflows."
-          SITE_NICHE: "AI tools, automation workflows, and practical tech guides"
+          SITE_NICHE: "Google reviews NFC and QR review cards, and local business reputation growth "
           # Optional: uncomment to use a custom model or OpenAI-compatible endpoint
-          # OPENAI_MODEL: "gpt-4o-mini"
-          # OPENAI_BASE_URL: "https://generativelanguage.googleapis.com/v1beta/openai/"
+           OPENAI_MODEL: "gemini-2.5-flash"
+           OPENAI_BASE_URL: "https://generativelanguage.googleapis.com/v1beta/openai/"
         run: python REPUTIFY_site.py
 
       - name: Commit and push updated site
