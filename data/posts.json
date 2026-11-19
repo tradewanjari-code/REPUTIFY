@@ -1,5 +1,42 @@
 [
   {
+    "title": "Mastering the Follow-Up: SMS vs. Email Requests for Google Reviews",
+    "slug": "2026-11-19-mastering-the-follow-up-sms-vs-email-requests-for-google-reviews",
+    "category": "Automation",
+    "summary": "Discover whether text messages or emails yield higher conversion rates for Google reviews. Learn how to optimize your timing and messaging to turn satisfied clients into public advocates.",
+    "date": "2026-11-19",
+    "sections": [
+      {
+        "heading": "The Open-Rate Reality: Why SMS Wins for Speed",
+        "paragraphs": [
+          "When it comes to capturing a customer's attention right after a service is rendered, SMS review requests drastically outperform traditional email. With open rates often exceeding 95% within the first few minutes, a text message ensures your request is seen while the positive experience is still top of mind.",
+          "To keep your SMS strategy compliant and effective, always include explicit opt-in language during checkout or service booking. Keep the text concise, warm, and hyper-focused with a direct link to your Google review page."
+        ]
+      },
+      {
+        "heading": "The Power of Detail: When Email is the Better Fit",
+        "paragraphs": [
+          "While SMS excels at speed, email remains the superior channel for complex, high-ticket, or B2B services where the customer relationship is deeper. An email allows you to express genuine gratitude, outline the impact of their feedback on your small business, and provide a polished call-to-action button.",
+          "For maximum impact, personalize the email using the customer's first name and reference the specific product or service they purchased. This shows that the request is authentic rather than a mass-automated broadcast."
+        ]
+      },
+      {
+        "heading": "Timing is Everything: The Golden Window for Asking",
+        "paragraphs": [
+          "Asking for a review too soon can feel presumptuous, while waiting too long causes the emotional high of the transaction to fade. For physical retail or dining, trigger your automated SMS request roughly two hours after they leave the premises.",
+          "For home services, contractors, or online consultations, sending the review request 24 hours later is usually the sweet spot. This gives the client enough time to fully appreciate the result of your work without forgetting the details."
+        ]
+      },
+      {
+        "heading": "Combining NFC and Digital Outreach for Omnichannel Success",
+        "paragraphs": [
+          "The most successful local businesses do not rely on just one channel; they combine physical touchpoints like NFC review cards at the counter with automated digital follow-ups. If a customer taps your NFC card on their way out, ensure your system recognizes the action to suppress any duplicate automated text messages.",
+          "By synchronizing your physical in-store prompts with a smart SMS and email sequence, you create a seamless reputation-building machine that continuously feeds your Google Business Profile with fresh five-star reviews."
+        ]
+      }
+    ]
+  },
+  {
     "title": "Turn Every Receipt into a 5-Star Review: Creative Ways to Prompt Customers",
     "slug": "2026-11-18-turn-every-receipt-into-a-5-star-review-creative-ways-to-prompt-customers",
     "category": "Guide",
