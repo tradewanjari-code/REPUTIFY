@@ -1,5 +1,42 @@
 [
   {
+    "title": "Mapping the Customer Journey: Strategically Positioning QR and NFC Displays Across Your Physical Location",
+    "slug": "2026-11-27-mapping-the-customer-journey-strategically-positioning-qr-and-nfc-displays-across-your-physical-location",
+    "category": "Guide",
+    "summary": "Discover how to analyze your physical storefront foot traffic to place NFC and QR review cards where customers are most likely to engage. Move beyond generic counter placements and capture high-intent feedback at natural transition points.",
+    "date": "2026-11-27",
+    "sections": [
+      {
+        "heading": "Audit Your Foot Traffic and Dwell Times",
+        "paragraphs": [
+          "Before placing a single NFC card or QR sticker, walk your business floor as if you were a first-time customer. Identify the exact zones where patrons experience a natural pause or waiting period, such as the cash register, waiting areas, or service pickup counters. These zones of stillness represent prime real estate because the customer's immediate task is complete, freeing up their mental bandwidth to interact with your review prompt.",
+          "Avoid high-congestion areas where people are rushing to exit or juggling items. Instead, target transition thresholds where a momentary pause naturally occurs. By aligning your physical review touchpoints with these micro-moments of downtime, you dramatically increase the likelihood of a scan or tap."
+        ]
+      },
+      {
+        "heading": "Match the Touchpoint to the Technology",
+        "paragraphs": [
+          "Different physical locations within your store call for different hardware choices. Near-Field Communication (NFC) chips embedded in wooden blocks or acrylic stands work exceptionally well on payment counters where customers casually rest their hands or phones while waiting for a receipt. The tap action takes less than a second, making it frictionless for smartphone users.",
+          "Conversely, QR codes are superior for vertical surfaces, walls, or locations where customers might stand a few feet away, such as waiting room mirrors, elevators, or exit doors. Ensure your QR codes are printed at a minimum size of one-inch square and contrasted sharply against the background to guarantee instant camera recognition."
+        ]
+      },
+      {
+        "heading": "Design for Contextual Relevance",
+        "paragraphs": [
+          "A generic 'Leave us a review' sign often blends into the visual noise of a busy storefront. To capture attention, tie the call to action directly to the immediate customer experience. For instance, a coffee shop might use a table tent reading 'Love your brew? Tap to tell Google,' while a mechanic shop might place a sign at the pickup desk that says 'Satisfied with your repair? Let us know in two taps.'",
+          "Contextual messaging bridges the gap between the physical interaction and the digital destination. When customers see a prompt that accurately reflects the service they just received, they feel a stronger psychological urge to validate that experience publicly."
+        ]
+      },
+      {
+        "heading": "Track and Rotate Your Display Locations",
+        "paragraphs": [
+          "Not all high-traffic spots yield the same conversion rates. Treat your physical review cards like digital landing pages by periodically auditing which locations generate the most scans. You can use dynamic QR codes with built-in analytics to track traffic coming from specific tables, counters, or walls within your shop.",
+          "If a particular NFC stand sees low engagement over a two-week period, experiment with moving it three feet to the left, adjusting its angle toward eye level, or revising the accompanying sign text. Continuous optimization of your physical placement ensures a steady, sustainable flow of organic Google reviews."
+        ]
+      }
+    ]
+  },
+  {
     "title": "Overcoming Review Fatigue: Creative Incentives That Actually Work Without Violating Google Policies",
     "slug": "2026-11-26-overcoming-review-fatigue-creative-incentives-that-actually-work-without-violating-google-policies",
     "category": "Reputation Strategy",
